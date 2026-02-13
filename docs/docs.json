@@ -1251,7 +1251,8 @@
                   "experiments/plans/cron-add-hardening",
                   "experiments/plans/group-policy-hardening",
                   "experiments/research/memory",
-                  "experiments/proposals/model-config"
+                  "experiments/proposals/model-config",
+                  "experiments/proposals/rewind-scheduling"
                 ]
               }
             ]
